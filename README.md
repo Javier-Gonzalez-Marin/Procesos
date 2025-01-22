@@ -49,11 +49,11 @@ Para la comparativa con Apache tendremos en cuenta los siguientes aspectos:
 
 A continuación, se presenta un esquema básico de red para implementar Nginx como servidor web y proxy inverso:
 
-Clientes: Usuarios que acceden al servicio web.
+   -Clientes: Usuarios que acceden al servicio web.
 
-Servidor Nginx: Actúa como proxy inverso, distribuyendo las peticiones a los servidores backend.
+   -Servidor Nginx: Actúa como proxy inverso, distribuyendo las peticiones a los servidores backend.
 
-Servidores Backend: Procesan las peticiones dinámicas y generan las respuestas necesarias.
+   -Servidores Backend: Procesan las peticiones dinámicas y generan las respuestas necesarias.
 
 Nginx se posiciona como un punto central en la red, manejando las conexiones y distribuyendo las cargas de manera eficiente para maximizar el rendimiento del sistema.
 
