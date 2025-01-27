@@ -3,10 +3,9 @@
 ## Índice
 
 1. [Introducción](Introducción.md)
-2. 
-3. [Monitorización_procesos](Monitorización_procesos.md)
-4. [Monitorización_almacenamiento](Monitorización_almacenamiento.md)
-5. [Monitorización_red](Monitorización_red.md)
+2. [Monitorización_procesos](Monitorización_procesos.md)
+3. [Monitorización_almacenamiento](Monitorización_almacenamiento.md)
+4. [Monitorización_red](Monitorización_red.md)
 
 ---
 
