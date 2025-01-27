@@ -117,3 +117,22 @@ Atajos de Teclado:
 ![htop_f6.png](img/htop_f6.png)
 
 ● F9 (Kill) - Terminar un Proceso
+
+# 4. Comando atop
+
+atop es una herramienta avanzada para monitorizar no solo
+procesos, sino también otros recursos del sistema, como disco, red
+y memoria.
+
+Uso básico:
+● Ejecutar en tiempo real:
+
+atop
+
+[atop](img/atop.png)
+
+● Consultar registros guardados:
+
+atop -r archivo_de_registratop
+
+[atop_r](img/atop_r.png)
