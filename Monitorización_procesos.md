@@ -18,6 +18,7 @@ ps [opciones]
 Opciones comunes:
 
 ● ps sin opciones:
+
 ![ps](img/ps_sin_opciones.png)
 
 ● ps a:
