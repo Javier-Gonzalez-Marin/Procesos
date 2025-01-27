@@ -21,7 +21,7 @@ Opciones comunes:
 [ps]{img/ps_sin_opciones.png}
 ● ps a:
 
-[ps_a](img/ps_a.png)
+![ps_a](img/ps_a.png)
 
 ● ps aux:
 
