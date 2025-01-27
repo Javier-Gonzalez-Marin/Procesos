@@ -18,9 +18,13 @@ ps [opciones]
 Opciones comunes:
 
 ● ps sin opciones:
-
+[ps]{img/ps_sin_opciones.png}
 ● ps a:
-(img/ps_a)
+
+[ps_a](img/ps_a)
+
 ● ps aux:
+
+[ps_aux}(img/ps_aux)
 
 ● ps -C nano <nombre>: 
