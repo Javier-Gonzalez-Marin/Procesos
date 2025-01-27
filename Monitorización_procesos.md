@@ -129,10 +129,10 @@ Uso básico:
 
 atop
 
-[atop](img/atop.png)
+![atop](img/atop.png)
 
 ● Consultar registros guardados:
 
 atop -r archivo_de_registratop
 
-[atop_r](img/atop_r.png)
+![atop_r](img/atop_r.png)
