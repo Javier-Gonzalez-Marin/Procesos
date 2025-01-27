@@ -19,7 +19,7 @@ Opciones comunes:
 
 ● ps sin opciones:
 
-![ps](img/ps_sin_opciones.png)
+![ps](img/Ps_sin_opciones.png)
 
 ● ps a:
 
