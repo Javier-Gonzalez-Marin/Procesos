@@ -88,7 +88,7 @@ Opciones:
 
 ● htop --tree:
 
-![Htop_tree](img/htop_tree.png)
+![Htop_tree](img/Htop_tree.png)
 
 ● htop -p <PID1,PID2>:
 
@@ -110,7 +110,7 @@ Atajos de Teclado:
 
 ● F5 (Tree) - Vista en árbol
 
-![htop_f5.png](img/htop_f5.png)
+
 
 ● F6 (Sort) - Ordenar
 
