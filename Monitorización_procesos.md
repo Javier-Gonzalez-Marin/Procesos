@@ -44,19 +44,19 @@ top [opciones]
 Opciones comunes:
 
 ● top T:
-[top_t](img/Top_T.png)
+![top_t](img/Top_T.png)
 ● top M:
-[top_m](img/Top_M.png)
+![top_m](img/Top_M.png)
 ● top P:
-[top_f](img/Top_F.png)
+![top_f](img/Top_F.png)
 ● top p:
 
 ● top R:
-[top_r](img/Top_R.png)
+![top_r](img/Top_R.png)
 ● top U:
-[top_u](img/Top_U.png)
+![top_u](img/Top_U.png)
 ● top q:
 
 
 ● top k:
-[top_k](img/Top_k.png)
+![top_k](img/Top_k.png)
