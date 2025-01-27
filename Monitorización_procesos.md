@@ -1,4 +1,4 @@
-##MONITORIZACIÓN DE PROCESOS
+## MONITORIZACIÓN DE PROCESOS
 
 En la administración de sistemas informáticos y redes, la monitorización
 de procesos es una tarea fundamental para garantizar el rendimiento,
