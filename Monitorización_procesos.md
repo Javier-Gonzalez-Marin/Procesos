@@ -20,7 +20,7 @@ Opciones comunes:
 ● ps sin opciones:
 
 ● ps a:
-
+(img/ps_a)
 ● ps aux:
 
 ● ps -C nano <nombre>: 
