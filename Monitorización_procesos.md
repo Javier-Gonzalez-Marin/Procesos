@@ -72,3 +72,48 @@ Opciones comunes:
 ● top k:
 
 ![top_k](img/Top_k.png)
+
+# 3. Comando htop
+
+htop es una versión mejorada y más amigable de top, con una
+interfaz interactiva y funcionalidad adicional.
+
+Sintaxis básica:
+htop [opciones]
+Opciones:
+
+● htop -u <usuario>:
+
+![Htop_U](img/Htop_U.png)
+
+● htop --tree:
+
+![Htop_tree](img/htop_tree.png)
+
+● htop -p <PID1,PID2>:
+
+![Htop_tree](img/htop_P.png)
+
+Atajos de Teclado:
+
+● F2 (Setup) - Configuración
+
+![htop_f2.png](img/htop_f2.png)
+
+● F3 (Search) - Búsqueda
+
+![htop_f3.png](img/htop_f3.png)
+
+● F4 (Filter) - Filtro
+
+![htop_f4.png](img/htop_f4.png)
+
+● F5 (Tree) - Vista en árbol
+
+![htop_f5.png](img/htop_f5.png)
+
+● F6 (Sort) - Ordenar
+
+![htop_f6.png](img/htop_f6.png)
+
+● F9 (Kill) - Terminar un Proceso
