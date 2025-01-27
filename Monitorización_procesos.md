@@ -53,7 +53,8 @@ Opciones comunes:
 
 ● top P:
 
-![top_f](img/Top_F.png)
+!![top_r](img/Top_P.png)
+
 
 ● top p:
 
